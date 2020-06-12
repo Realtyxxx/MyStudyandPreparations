@@ -1,10 +1,10 @@
 # 使用mac虚拟机
-本来我是装的VMware station 15pro的
-但是发现不管怎么弄都出现不了macos的选项
-所以就变通了安装了vm12.5
-装好后还得用unlock修改文件
-然后还装了一个python2.7用于unlock文件修改
-主要两个网站：
+- 本来我是装的VMware station 15pro的
+- 但是发现不管怎么弄都出现不了macos的选项
+- 所以就变通了安装了vm12.5
+- 装好后还得用unlock修改文件
+- 然后还装了一个python2.7用于unlock文件修改
+### 主要两个网站：
 - 安装教程地址：https://www.mairoot.com/?p=1082
 - 安装前修改解决无cpu问题	：https://blog.csdn.net/testcs_dn/article/details/51343988
 
