@@ -1,3 +1,4 @@
+# 已安装
 [用VSCode写python的正确姿势](https://blog.csdn.net/agonie201218/article/details/75305043)
 
 ## Flake8 是由Python官方发布的一款辅助检测Python代码是否规范的工具，相对于目前热度比较高的Pylint来说，Flake8检查规则灵活，支持集成额外插件，扩展性强。Flake8是对下面三个工具的封装：
@@ -13,3 +14,7 @@
 ## 目前卸载了flake8 安装了yapf 然后按下alt+shift+f即可格式化代码
 
 - [vscode 用python教程](https://blog.csdn.net/mculover666/article/details/89949496 )
+
+
+# 未安装
+## ipython,jupyter,matplotlab 在这个网站学习时候装入的[IPython介绍](https://blog.csdn.net/qq_39362996/article/details/82892671)
