@@ -7,4 +7,3 @@
     * [使用mac虚拟机](虚拟机/使用mac虚拟机.md)
 * [部分软件记录](部分软件记录/README.md)
     * [sublime快捷键](部分软件记录/sublime快捷键.md)
-
