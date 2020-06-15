@@ -18,3 +18,5 @@
 
 # 未安装
 ## ipython,jupyter,matplotlab 在这个网站学习时候装入的[IPython介绍](https://blog.csdn.net/qq_39362996/article/details/82892671)
+
+##PIL在python2然后在python3代替用了pillow，指令不变，但是pip中安装Pillow
