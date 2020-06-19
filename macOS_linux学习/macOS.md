@@ -25,3 +25,7 @@ tree
 ```
 ##dict
 >用于翻译的命令行工具，基于python
+
+## [MAC下安装iterm2+oh my zsh超详细过程](https://blog.csdn.net/qq_32958797/article/details/97307977) 
+- 2020-06-19-23:49
+- ps:因为自己看到很多人说oh my zsh 还有终端还是不太会使用所以找到这个网址学习
