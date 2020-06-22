@@ -1,4 +1,4 @@
-# Your Book Title
+# My Study and Preparations
 
 - [python学习](python学习/README.md)
 
@@ -16,6 +16,6 @@
 
 - [macOS_Linux学习](macOS_Linux学习/macOS_linux学习.md)
 
-  - [macOS](macOS_Linux学习/macOS.md)
-
   - [Linux](macOS_Linux学习/Linux.md)
+
+  - [macOS](macOS_Linux学习/macOS.md)
