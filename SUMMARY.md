@@ -18,4 +18,4 @@
 
   - [macOS](macOS_Linux学习/macOS.md)
 
-  - [Linux](MyStudyandPreparations/macOS_Linux学习/Linux.md)
+  - [Linux](macOS_Linux学习/Linux.md)
