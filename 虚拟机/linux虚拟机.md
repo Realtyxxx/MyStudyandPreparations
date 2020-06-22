@@ -1,5 +1,7 @@
 # linux虚拟机
+
 ## 装的目录相同主要想用来在外网通过ssh运行虚拟机
+
 - ifconfig查看ip，
 - [如何查看虚拟机ip](https://blog.csdn.net/qq_35854212/article/details/90749650)
 - [SSH如何访问局域网内其它主机上的NAT网络模式下的虚拟机](https://blog.csdn.net/ScilogyHunter/article/details/105388943)
