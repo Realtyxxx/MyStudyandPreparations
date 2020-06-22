@@ -12,7 +12,7 @@ ____
 
 ____
 
-## tree 命令安装:
+## tree 命令安装
 
 功能：
 将文件以目录树的形式展开，方便查看文件，非常实用的一个插件。
@@ -44,6 +44,7 @@ source .bashrc
 ```zsh
 tree
 ```
+
 ____
 
 ## dict
@@ -52,7 +53,7 @@ ____
 
 ____
 
-## [MAC下安装iterm2+oh my zsh超详细过程](https://blog.csdn.net/qq_32958797/article/details/97307977) 
+## [MAC下安装iterm2+oh my zsh超详细过程](https://blog.csdn.net/qq_32958797/article/details/97307977)
 
 - 2020-06-19-23:49
 - ps:因为自己看到很多人说oh my zsh 还有终端还是不太会使用所以找到这个网址学习
@@ -85,6 +86,7 @@ sudo spctl --master-enable
 ```zsh
 xattr -r -d com.apple.quarantine <path>
 ```
+
 ____
 
 ## [Mac环境下VSCode配置python3](https://www.jianshu.com/p/354377ade444)
