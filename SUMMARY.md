@@ -14,8 +14,8 @@
 
   - [sublime快捷键](部分软件记录/sublime快捷键.md)
 
-- [macOS_Linux学习](macOS_Linux学习/macOS_linux学习.md)
+- [macOS_Linux_Study](macOS_Linux_Study/macOS_Linux_Study.md)
 
-  - [Linux](macOS_Linux学习/Linux.md)
+  - [Linux](macOS_Linux_Study/Linux.md)
 
-  - [macOS](macOS_Linux学习/macOS.md)
+  - [macOS](macOS_Linux_Study/macOS.md)
