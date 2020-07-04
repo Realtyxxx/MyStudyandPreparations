@@ -90,3 +90,11 @@ xattr -r -d com.apple.quarantine <path>
 ____
 
 ## [Mac环境下VSCode配置python3](https://www.jianshu.com/p/354377ade444)
+
+____
+
+## [iterm2 和 oh-my-zsh 安装配置](https://www.jianshu.com/p/405956cdaca6)
+
+____
+
+## [zsh：command not find:conda 的详细解决办法](https://www.jianshu.com/p/13f5d20e61f8)
