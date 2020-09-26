@@ -98,3 +98,8 @@ ____
 ____
 
 ## [zsh：command not find:conda 的详细解决办法](https://www.jianshu.com/p/13f5d20e61f8)
+
+## [真实有效的Vim配置记录(macOS)](https://www.jianshu.com/p/a03fcb09924c)
+
+## [在 VIM 下写 C++ 能有多爽？](https://harttle.land/2015/07/18/vim-cpp.html)
+
