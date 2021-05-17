@@ -9,4 +9,5 @@
 - [Mac OS Linux Study](macOS_Linux_Study/macOS_Linux_Study.md)
   * [Linux](macOS_Linux_Study/Linux.md)
   * [Mac OS](macOS_Linux_Study/macOS.md)
-
+- [python学习](python学习/README.md)
+  * [我的pip中装的一些包](python学习/我的pip中装的一些包.md)
